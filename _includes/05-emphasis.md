@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am great at screwing things up*
+
+**I couldn't edit this file, but now it is okay**
